@@ -1,0 +1,17 @@
+tran.currency=356
+consumer.language=USA
+tran.action=1
+merchant.receiptURL=http://10.44.73.109:9090/FSSAggr_MerchantDemo/jsp/fss/TranPipeResult.jsp
+#merchant.receiptURL=http://10.44.73.109:9090/transactiondemo/NotifyServlet
+merchant.errorURL=http://10.44.73.109:9090/FSSAggr_MerchantDemo/jsp/fss/TranPipeResult.jsp
+aggr.notifywebaddr=http://10.44.73.111:8080/iPayAggregator
+#aggr.notifywebaddr=http://10.144.20.140:8030/fsspay
+aggr.terminal.key=7129842055647129
+aggr.tranprtl.id=sudharsan
+aggr.tranprtl.password=tran@123
+aggr.alias=demo
+merchant.name=Textile
+aggr.Recharge.Webaddr=http://10.44.73.111:8080/iPayAggregator
+aggr.hash.flag=n
+#aggr.webaddr=https://merchanthubpreprod.fssnet.co.in/PGAggregator
+#aggr.terminal.key=8033949775918033

@@ -1,0 +1,83 @@
+@charset "utf-8";
+ CSS Document 
+
+body {
+	margin:0px 0px 0px 0px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#707070;
+	background-color:#ffffff;
+	padding-top: 40px;
+}
+
+.pad-30{padding-left: 30px;}
+
+.pay-box{ background-color:#FFFFFF; height:68px; border:#6c90cc solid 1px; padding:2px; padding-top: 15px; padding-bottom: 15px; text-align:left; }
+
+.button1{ background-color:#4c7db4; border:#93c2db solid 2px; color:#FFFFFF; height:24px; width:80px;}
+
+.height10{ height:10px;}
+
+.combo-medium{width:65px; height:25px;}
+.combo-big	{width:150px; height:25px;}
+
+.height5{ height:5px;}
+
+.height20{ height:20px;}
+.text3 {
+	color:#4c7db4;
+	font-weight:bold;
+	font-size:15px;
+}
+.text5{
+	color:#4c7db4;
+	font-weight:bold;
+	font-size:12px;
+	}
+.text2 {
+	color:#FFFFFF;
+	font-size:14px;
+	background-color:#6c90cc;
+}
+.table1{  border:#6c90cc solid 1px; border-collapse: collapse; overflow: auto; caption-side: right;
+		 
+	}
+	
+.text4 {
+	color:#4c7db4;
+	font-weight:bold;
+	font-size:30px;
+}
+
+table.table1, table.table1 td, table.table1 th {
+	border: 1px solid #6c90cc;
+}
+
+
+.text1 {
+	font-size:12px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+.textblue {
+	font-size:12px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+	color:#4c7db4;
+}
+.errortxt {
+	font-size:12px;
+	font-family:Verdana, Geneva, sans-serif;
+	color: red;
+}
+ .textLink1 {
+  	color:#424ed7;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+}
+text6{
+	font-size:2px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+

@@ -1,0 +1,124 @@
+/* .bank-logo, .merchant-logo{
+	max-width:32%;
+} */
+iframe {
+    width: 100%;
+    min-height: 710px;
+	display:block;
+	border: 0;
+}
+/* body{
+	background-color:#fff;
+	
+}
+.col-lg-offset-3{
+	margin-left: 25%;
+}
+.col-lg-6 {
+
+    line-height: 38px;
+}
+header img{
+	max-width:96%;
+	margin-bottom: 2%;	
+}
+.cardNo{
+	font-size:160%;
+}
+.merchName{
+	font-size:160%;
+}
+.amt{
+	font-size:160%;
+} */
+/* .col-lg-6 input[type="password"]{
+	width: 50px;
+    font-size: 1em;
+    padding: 2px 5px 0px;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+#cardNoVal span{
+	font-size:165%;
+}
+#merchantName span{
+	font-size:165%;
+}
+#amount span{
+	font-size:165%;
+}
+.star{
+	font-size: 1.5em !important;
+    position: relative;
+    bottom: -0.2em;
+    letter-spacing: 1px;
+}
+.float-left{
+	float:left;
+}
+.float-right{
+	float:right;
+}
+.btn {
+    padding: 6px 15px;
+}    
+span.float-right{
+	float:none;
+	display:block;
+	text-align:right;	
+} */
+@media (max-width: 660px) {
+	iframe {
+    	width: 100%;
+    	min-height: 695px;
+	}    
+} 
+@media (max-width: 640px) {
+	iframe {min-height: 766px;}    
+}
+@media (max-width: 610px) {
+	.col-lg-offset-3 {
+	    margin-left: 15%;
+	}
+	.col-lg-6 {
+		width:70%;
+	}
+	label.col-lg-6 {
+		width:30%;
+	}
+}
+@media (max-width: 599px) {
+	header img.float-right{float:none;padding:0;display:block;}
+	header img.merchant-logo {width: 32%;}
+	.col-lg-6,label.col-lg-6 {
+		width:75%;
+	}
+}
+@media (max-width: 550px) {
+	iframe {
+    	width: 100%;
+    	min-height: 776px;
+	}    
+	img.float-left.bank-logo{float:none;}
+} 
+@media (max-width: 500px) {
+	 header img.float-right{float:none;padding:0;display:block;}
+	header img.merchant-logo {width: 32%;}
+	.col-lg-6,label.col-lg-6 {
+		width:75%;
+	}
+	
+}
+@media (max-width: 490px) {
+	iframe {
+    	width: 100%;
+    	min-height: 840px;
+	}    
+} 
+@media (max-width: 440px) {iframe {width: 100%;min-height: 945px;}} 
+@media (max-width: 360px) {
+	iframe {
+    	width: 100%;
+    	min-height: 975px;
+	}    
+} 
